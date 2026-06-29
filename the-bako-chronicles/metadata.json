@@ -1,0 +1,6 @@
+{
+  "name": "The Bako Chronicles",
+  "description": "A vibrant, energetic travel and international dating blog for adventurous women, sharing short stories, safety hacks, and matchmaking tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
